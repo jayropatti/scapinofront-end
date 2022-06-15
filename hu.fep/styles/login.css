@@ -30,7 +30,8 @@ section .container
 
 }
 
-section .container .user{
+section .container .user
+{
     position: absolute;
     top: 0;
     Left: 0;
