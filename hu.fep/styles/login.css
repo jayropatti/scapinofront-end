@@ -19,7 +19,7 @@ section
 
 }
 
-selection.container
+section .container
 {
     position: relative;
     width: 800px;
