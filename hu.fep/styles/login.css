@@ -14,7 +14,9 @@ section
     min-height: 100vh;
     background: #ed1c29;
     background-image: url("../styles/bg.jpg");
+    background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
