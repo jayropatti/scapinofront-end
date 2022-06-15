@@ -12,7 +12,8 @@ section
 {
     position : relative;
     min-height: 100vh;
-    background: #ed1c29;
+    /* background: #ed1c29; */
+    background-image: url("../styles/bg.jpg");
     display: flex;
     justify-content: center;
     align-items: center;
