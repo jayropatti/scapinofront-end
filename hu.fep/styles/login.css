@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family:monospace,sans-serif;
+    font-family: "Helvetica Neue","Helvetica","Arial","sans-serif";
 
 }
 
@@ -117,5 +117,17 @@ section .container .user .formBx form input[type="submit"]
     font-weight: 500;
     letter-spacing: 1px;
     transition: 0.5s;
+
+}
+
+section .container .user .formBx form .signup
+{
+    position: relative;
+    margin-top: 20px ;
+    font-size: 12px;
+    letter-spacing: 1px;
+    color: #555;
+    text-transform: uppercase;
+    font-weight: 300;
 
 }
