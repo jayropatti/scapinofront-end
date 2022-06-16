@@ -142,9 +142,14 @@ section .container .user .formBx form .signup a
 
 section .container .user .formBx form .message
 {
-    font-weight: 600;
-    text-decoration: none;
-    color: #677eff;
+    position: relative;
+    margin-top: 20px ;
+    font-size: 12px;
+    letter-spacing: 1px;
+    color: #555;
+    text-transform: uppercase;
+    font-weight: 300;
+
 
 }
 
