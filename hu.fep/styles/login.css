@@ -139,3 +139,12 @@ section .container .user .formBx form .signup a
     color: #677eff;
 
 }
+
+section .container .user .formBx form .message
+{
+    font-weight: 600;
+    text-decoration: none;
+    color: #677eff;
+
+}
+
