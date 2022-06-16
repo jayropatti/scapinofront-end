@@ -13,7 +13,7 @@ section
     position : relative;
     min-height: 100vh;
     background: #ed1c29;
-    background-image: url("../styles/bg.jpg");
+    background-image: url("../images/bg.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
